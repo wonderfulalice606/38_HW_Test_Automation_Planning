@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Suite">
+  <test name="Selenium WebDriver">
+    <classes>
+      <class name="core.Crome"/>
+      <class name="core.Firefox"/>
+      <class name="core.Safari"/>
+    </classes>
+  </test> 
+</suite> 
